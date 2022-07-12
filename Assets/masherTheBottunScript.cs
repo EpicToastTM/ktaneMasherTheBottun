@@ -473,7 +473,7 @@ public class masherTheBottunScript : MonoBehaviour {
 
                 int offset = 0;
                 if (numberDisplayed > 9)
-                    offset = numberDisplayed / 10
+                    offset = numberDisplayed / 10;
                 else
                     offset = numberDisplayed;
 
